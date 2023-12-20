@@ -1,0 +1,19 @@
+﻿@model BH.CodeGen.Model.Settings
+using BH.Models;
+using BH.Models.ViewModels;
+
+
+namespace BH.Services.Interface
+{
+    public interface I@(Model.ServiceName)
+    {
+        Task<ResultModel<@(Model.ClassName)Model>> Save@(Model.ClassName)(@(Model.ClassName)Model model);
+        Task<ResultModel<@(Model.ClassName)Model>> Get@(Model.ClassName)ById(int id);
+        Task<ResultModel<List<@(Model.ClassName)Model>>> GetAll@(Model.ClassName)(@(Model.ClassName)ListModel model);
+        Task<ResultModel<int>> GetAll@(Model.ClassName)Count(@(Model.ClassName)ListModel model);
+    }
+ }
+
+
+
+

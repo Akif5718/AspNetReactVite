@@ -1,0 +1,17 @@
+/Users/akif/Dream01/BH/BH/BH.Services/bin/Debug/net6.0/BH.Services.deps.json
+/Users/akif/Dream01/BH/BH/BH.Services/bin/Debug/net6.0/BH.Services.dll
+/Users/akif/Dream01/BH/BH/BH.Services/bin/Debug/net6.0/BH.Services.pdb
+/Users/akif/Dream01/BH/BH/BH.Services/bin/Debug/net6.0/BH.Models.dll
+/Users/akif/Dream01/BH/BH/BH.Services/bin/Debug/net6.0/BH.Repositories.dll
+/Users/akif/Dream01/BH/BH/BH.Services/bin/Debug/net6.0/BH.Repositories.pdb
+/Users/akif/Dream01/BH/BH/BH.Services/bin/Debug/net6.0/BH.Models.pdb
+/Users/akif/Dream01/BH/BH/BH.Services/obj/Debug/net6.0/BH.Services.csproj.AssemblyReference.cache
+/Users/akif/Dream01/BH/BH/BH.Services/obj/Debug/net6.0/BH.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akif/Dream01/BH/BH/BH.Services/obj/Debug/net6.0/BH.Services.AssemblyInfoInputs.cache
+/Users/akif/Dream01/BH/BH/BH.Services/obj/Debug/net6.0/BH.Services.AssemblyInfo.cs
+/Users/akif/Dream01/BH/BH/BH.Services/obj/Debug/net6.0/BH.Services.csproj.CoreCompileInputs.cache
+/Users/akif/Dream01/BH/BH/BH.Services/obj/Debug/net6.0/BH.Services.csproj.CopyComplete
+/Users/akif/Dream01/BH/BH/BH.Services/obj/Debug/net6.0/BH.Services.dll
+/Users/akif/Dream01/BH/BH/BH.Services/obj/Debug/net6.0/refint/BH.Services.dll
+/Users/akif/Dream01/BH/BH/BH.Services/obj/Debug/net6.0/BH.Services.pdb
+/Users/akif/Dream01/BH/BH/BH.Services/obj/Debug/net6.0/ref/BH.Services.dll

@@ -1,0 +1,15 @@
+/Users/akif/BinaryBrenz/BH/BH/BH.Repositories/bin/Debug/net6.0/BH.Repositories.deps.json
+/Users/akif/BinaryBrenz/BH/BH/BH.Repositories/bin/Debug/net6.0/BH.Repositories.dll
+/Users/akif/BinaryBrenz/BH/BH/BH.Repositories/bin/Debug/net6.0/BH.Repositories.pdb
+/Users/akif/BinaryBrenz/BH/BH/BH.Repositories/bin/Debug/net6.0/BH.Models.dll
+/Users/akif/BinaryBrenz/BH/BH/BH.Repositories/bin/Debug/net6.0/BH.Models.pdb
+/Users/akif/BinaryBrenz/BH/BH/BH.Repositories/obj/Debug/net6.0/BH.Repositories.csproj.AssemblyReference.cache
+/Users/akif/BinaryBrenz/BH/BH/BH.Repositories/obj/Debug/net6.0/BH.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akif/BinaryBrenz/BH/BH/BH.Repositories/obj/Debug/net6.0/BH.Repositories.AssemblyInfoInputs.cache
+/Users/akif/BinaryBrenz/BH/BH/BH.Repositories/obj/Debug/net6.0/BH.Repositories.AssemblyInfo.cs
+/Users/akif/BinaryBrenz/BH/BH/BH.Repositories/obj/Debug/net6.0/BH.Repositories.csproj.CoreCompileInputs.cache
+/Users/akif/BinaryBrenz/BH/BH/BH.Repositories/obj/Debug/net6.0/BH.Repositories.csproj.CopyComplete
+/Users/akif/BinaryBrenz/BH/BH/BH.Repositories/obj/Debug/net6.0/BH.Repositories.dll
+/Users/akif/BinaryBrenz/BH/BH/BH.Repositories/obj/Debug/net6.0/refint/BH.Repositories.dll
+/Users/akif/BinaryBrenz/BH/BH/BH.Repositories/obj/Debug/net6.0/BH.Repositories.pdb
+/Users/akif/BinaryBrenz/BH/BH/BH.Repositories/obj/Debug/net6.0/ref/BH.Repositories.dll

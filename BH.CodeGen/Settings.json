@@ -1,0 +1,54 @@
+﻿{
+  "ClassName": "User",
+  "RepoName": "UserRepo",
+  "ServiceName": "UserService",
+  "Properties": [
+    {
+      "Name": "Id",
+      "Type": "int",
+      "Length": "-1"
+    },
+    {
+      "Name": "UserName",
+      "Type": "string",
+      "Length": "50"
+    },
+    {
+      "Name": "FirstName",
+      "Type": "string",
+      "Length": "50"
+    },
+    {
+      "Name": "LastName",
+      "Type": "string",
+      "Length": "50"
+    },
+    {
+      "Name": "AspnetUserId",
+      "Type": "string",
+      "Length": "450"
+    },
+    {
+      "Name": "UserTypeId",
+      "Type": "int",
+      "Length": "-1"
+    },
+    {
+      "Name": "Email",
+      "Type": "string",
+      "Length": "50"
+    },
+    {
+      "Name": "PhoneNumber",
+      "Type": "string",
+      "Length": "50"
+    },
+    {
+      "Name": "Active",
+      "Type": "bool",
+      "Length": "-1"
+    }
+  ],
+  "ResultModel": "UserModel"
+}
+

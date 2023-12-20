@@ -1,0 +1,28 @@
+
+# Tables
+
+## ASPNetTables
+Tables/AspNetTables/AspNetUsers.sql
+Tables/AspNetTables/AspNetRoles.sql
+Tables/AspNetTables/AspNetUserLogins.sql
+Tables/AspNetTables/AspNetUserTokens.sql
+Tables/AspNetTables/AspNetUserRoles.sql
+Tables/AspNetTables/AspNetRoleClaims.sql
+Tables/AspNetTables/AspNetUserClaims.sql
+
+## BHTables
+Tables/BH/Setting.sql
+Tables/BH/User.sql
+
+# Alter
+
+# Seed scripts
+SeedData/Setting.sql
+
+# StoredProcedures
+
+# Migration
+
+# Update statistics
+
+# Scheduler Job

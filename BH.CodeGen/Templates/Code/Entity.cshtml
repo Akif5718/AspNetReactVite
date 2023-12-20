@@ -1,0 +1,25 @@
+﻿@model BH.CodeGen.Model.Settings
+using System;
+
+namespace BH.Models.ViewModels
+{
+    public class @(Model.ClassName)Model
+    {
+    @foreach (var property in Model.Properties)
+    {
+                    var line = "\t\tpublic "+ property.Type +  
+                " " + @property.Name + " { get; set;}\n";
+      WriteLiteral(line);
+    }
+    }
+    public class @(Model.ClassName)ListModel : PaginationModelBase
+    {
+    @foreach (var property in Model.Properties)
+    {
+                    var line = "\t\tpublic "+ property.Type +  
+                " " + @property.Name + " { get; set;}\n";
+      WriteLiteral(line);
+    }
+    }
+}
+

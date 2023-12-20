@@ -1,0 +1,12 @@
+/Users/akif/BinaryBrenz/BH/BH/BH.Models/bin/Debug/net6.0/BH.Models.deps.json
+/Users/akif/BinaryBrenz/BH/BH/BH.Models/bin/Debug/net6.0/BH.Models.dll
+/Users/akif/BinaryBrenz/BH/BH/BH.Models/bin/Debug/net6.0/BH.Models.pdb
+/Users/akif/BinaryBrenz/BH/BH/BH.Models/obj/Debug/net6.0/BH.Models.csproj.AssemblyReference.cache
+/Users/akif/BinaryBrenz/BH/BH/BH.Models/obj/Debug/net6.0/BH.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akif/BinaryBrenz/BH/BH/BH.Models/obj/Debug/net6.0/BH.Models.AssemblyInfoInputs.cache
+/Users/akif/BinaryBrenz/BH/BH/BH.Models/obj/Debug/net6.0/BH.Models.AssemblyInfo.cs
+/Users/akif/BinaryBrenz/BH/BH/BH.Models/obj/Debug/net6.0/BH.Models.csproj.CoreCompileInputs.cache
+/Users/akif/BinaryBrenz/BH/BH/BH.Models/obj/Debug/net6.0/BH.Models.dll
+/Users/akif/BinaryBrenz/BH/BH/BH.Models/obj/Debug/net6.0/refint/BH.Models.dll
+/Users/akif/BinaryBrenz/BH/BH/BH.Models/obj/Debug/net6.0/BH.Models.pdb
+/Users/akif/BinaryBrenz/BH/BH/BH.Models/obj/Debug/net6.0/ref/BH.Models.dll
